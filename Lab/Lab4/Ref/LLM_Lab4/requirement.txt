@@ -1,0 +1,13 @@
+transformers==4.40.1
+torch>=2.0.0
+PyMuPDF==1.23.22
+SpeechRecognition==3.10.1
+gTTS==2.5.1
+playsound==1.3.0
+pydub==0.25.1
+streamlit==1.34.0
+streamlit-webrtc
+numpy>=1.21.0
+nltk==3.8.1
+rouge-score==0.1.2
+sacrebleu

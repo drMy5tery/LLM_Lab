@@ -53,8 +53,8 @@ if uploaded_pdf and uploaded_audio:
             for result in results:
                 st.write(f"**Question:** {result['question']}")
                 st.write(f"**BLEU Score:** {result['bleu']:.4f}")
-                # st.write(f"**ROUGE-1:** {result['rouge']['rouge1_f']:.4f}")
-                # st.write(f"**ROUGE-2:** {result['rouge']['rouge2_f']:.4f}")
-                # st.write(f"**ROUGE-L:** {result['rouge']['rougeL_f']:.4f}")
+                st.write(f"**ROUGE-1:** {result['rouge']['rouge1_f']:.4f}")
+                st.write(f"**ROUGE-2:** {result['rouge']['rouge2_f']:.4f}")
+                st.write(f"**ROUGE-L:** {result['rouge']['rougeL_f']:.4f}")
 else:
     st.info("Upload both a PDF and a voice file to proceed.")

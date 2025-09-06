@@ -5,7 +5,7 @@
 **Watch the complete application demonstration:**
 
 
-<video src="media/LLM_Q2_ETE_Demo_.mp4" width="1280" height="720" controls></video>
+<video src="media/LLM_Q2_ETE_Demo_.mp4" width="854" height="480" controls></video>
 
 *The demo video showcases all features including document upload, multi-turn conversations, evaluation metrics, and visualizations.*
 
@@ -15,18 +15,6 @@
 
 This project implements a **comprehensive Retrieval-Augmented Generation (RAG) pipeline** with advanced conversational AI capabilities, built using Streamlit. The system demonstrates deep understanding of modern NLP techniques, conversational AI, and RAG architecture.
 
-### Evaluation Criteria Coverage
-
-This implementation fully addresses all assignment evaluation criteria:
-
-| Criterion | Implementation | Status |
-|-----------|----------------|--------|
-| **i) Correct Integration of Retrieval and Generation** | Complete RAG pipeline with FAISS vectorstore + Groq LLM | **Excellent** |
-| **ii) Working Chatbot Functionality (Multi-turn)** | Memory-aware conversational system with context preservation | **Excellent** |
-| **iii) Preprocessing & Dataset Description** | Comprehensive document analysis with statistical insights | **Excellent** |
-| **iv) Streamlit Integration & Visualizations** | Interactive dashboard with embeddings visualization | **Excellent** |
-| **v) RAG Pipeline & Conversational AI Knowledge** | Advanced implementation with evaluation metrics | **Excellent** |
-| **vi) Limitations & Improvements Discussion** | Detailed analysis with future enhancement roadmap | **Excellent** |
 
 ## Features
 

@@ -5,7 +5,8 @@
 **Watch the complete application demonstration:**
 
 
-<video src="https://github.com/drMy5tery/LLM_Lab/blob/main/Lab/ETE/media/LLM_Q2_ETE_Demo_.mp4" width="1280" height="720" controls></video>
+
+https://github.com/user-attachments/assets/4cd01571-0eb5-4f96-8b84-109b9468b689
 
 *The demo video showcases all features including document upload, multi-turn conversations, evaluation metrics, and visualizations.*
 

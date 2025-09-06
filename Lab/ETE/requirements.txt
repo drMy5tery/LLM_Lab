@@ -1,0 +1,46 @@
+# Core Streamlit and Web Framework
+streamlit>=1.28.0
+
+# LangChain and LLM Libraries
+langchain>=0.0.300
+langchain-community>=0.0.38
+langchain-groq>=0.1.0
+
+# Embeddings and Vector Stores
+sentence-transformers>=2.2.2
+faiss-cpu>=1.7.4
+transformers>=4.35.0
+
+# Evaluation Metrics
+rouge-score>=0.1.2
+nltk>=3.8.1
+scikit-learn>=1.3.0
+
+# Data Visualization
+plotly>=5.17.0
+matplotlib>=3.7.0
+seaborn>=0.12.0
+
+# Data Processing and Analysis
+pandas>=2.1.0
+numpy>=1.24.0
+
+# Dimensionality Reduction
+umap-learn>=0.5.4
+
+# Translation and Language Detection
+deep-translator>=1.11.4
+langdetect>=1.0.9
+
+# Utility Libraries
+python-dateutil>=2.8.2
+python-dotenv>=1.0.0
+
+# HuggingFace Integration
+huggingface-hub>=0.17.0
+
+# Optional: For better performance
+torch>=2.0.0  # For sentence-transformers (CPU version)
+
+# Development and Debugging
+streamlit-extras>=0.3.0

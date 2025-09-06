@@ -5,7 +5,7 @@
 **Watch the complete application demonstration:**
 
 
-<video src="media/LLM_Q2_ETE_Demo_.mkv" width="854" height="480" controls></video>
+<video src="media/LLM_Q2_ETE_Demo_.mp4" width="1280" height="720" controls></video>
 
 *The demo video showcases all features including document upload, multi-turn conversations, evaluation metrics, and visualizations.*
 

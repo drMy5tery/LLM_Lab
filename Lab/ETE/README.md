@@ -1,4 +1,4 @@
-# Question 2: Domain-Specific Question Answering & Chatbot
+#  Domain-Specific Question Answering & Chatbot
 
 ## Demo Video
 
